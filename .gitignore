@@ -1,0 +1,6 @@
+.vscode
+build
+nimspatialite
+test.db*
+createdb
+tspatialite
